@@ -1,0 +1,65 @@
+Project: Data-Driven Revenue Enhancement for AtliQ Grands Hospitality
+
+Description:
+AtliQ Grands, a renowned chain of luxury five-star hotels in India, is grappling with declining market share and revenue due to competitor moves and suboptimal management decisions. In a bid to counteract these challenges, the company aims to leverage the power of Business and Data Intelligence. As a data analyst, my pivotal role entails:
+
+Metric Establishment:
+
+Define key performance metrics aligned with provided data and metadata.
+
+Dashboard Development:
+
+Craft a comprehensive interactive dashboard based on the stakeholders' mock-up.
+
+Unearth Actionable Insights:
+
+Extract meaningful insights beyond predefined metrics and dashboard, utilizing your analytical prowess.
+My contributions will empower AtliQ Grands to make informed decisions, reclaim lost market share, and drive revenue growth in the luxury/business hotel sector.
+
+Metrics to be Created:
+
+Week Number (wn): Calculate the week number from corresponding dates.
+
+Day Type: Categorize days into weekends and weekdays based on provided information.
+
+Revenue: Sum up total realized revenue.
+
+Total Bookings: Count the total number of bookings.
+
+Total Capacity: Sum up the total room capacity.
+
+Total Successful Bookings: Sum up successful room bookings.
+
+Occupancy %: Calculate the occupancy percentage.
+
+Average Rating: Compute the average customer ratings.
+
+No of Days: Calculate the total number of days present in the data.
+
+Total Cancelled Bookings: Calculate the count of "Cancelled" bookings.
+
+Cancellation %: Compute the cancellation percentage.
+
+Total Checked Out: Calculate the count of successful "Checked Out" bookings.
+
+Total No Show Bookings: Calculate the count of "No Show" bookings.
+
+No Show Rate %: Compute the "No Show" percentage.
+
+Booking % by Platform: Calculate the booking distribution by platform.
+
+Booking % by Room Class: Calculate the booking distribution by room class.
+
+ADR (Average Daily Rate): Compute the average daily rate.
+
+Realisation %: Calculate the realization percentage.
+
+RevPAR (Revenue Per Available Room): Calculate the revenue per available room.
+
+DBRN (Daily Booked Room Nights): Calculate daily booked room nights.
+
+DSRN (Daily Sellable Room Nights): Calculate daily sellable room nights.
+
+DURN (Daily Utilized Room Nights): Calculate daily utilized room nights.
+
+WoW Changes (%): Calculate week-over-week changes for various metrics (Revenue, Occupancy, ADR, RevPAR, Realisation, DSRN).
